@@ -1,0 +1,2 @@
+//go to product search
+<iframe scr ="java script:alert('xss')"> 
