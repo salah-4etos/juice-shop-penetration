@@ -1,0 +1,3 @@
+//find admin paths
+dirb https://juice-shop.herokuapp.com /usr/share/wordlists/dirb/common.txt -v |grep admin
+// select from output "https://juice-shop.herokuapp.com/administration"
